@@ -38,7 +38,7 @@ $ vi runme.sh
 # run!
 $ bash runme.sh
 
-# restart ssh (caution: port will be changed!)
+# restart ssh (Caution: The ssh port will be changed!)
 $ /etc/init.d/ssh restart
 ~~~ 
 
