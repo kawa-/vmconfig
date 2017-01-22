@@ -37,6 +37,9 @@ $ vi runme.sh
 
 # run!
 $ bash runme.sh
+
+# restart ssh (caution: port will be changed!)
+$ /etc/init.d/ssh restart
 ~~~ 
 
 Sometimes you need to install wget command by apt.
